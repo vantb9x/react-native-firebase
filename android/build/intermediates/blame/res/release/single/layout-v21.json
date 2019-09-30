@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/macintoshhd/source/react-native/mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/267b289ca8141ec76da15cbe895a5a2f/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/macintoshhd/source/react-native/mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/267b289ca8141ec76da15cbe895a5a2f/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/macintoshhd/source/react-native/mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/267b289ca8141ec76da15cbe895a5a2f/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/macintoshhd/source/react-native/mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/267b289ca8141ec76da15cbe895a5a2f/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

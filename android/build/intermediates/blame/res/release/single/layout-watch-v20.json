@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/macintoshhd/source/react-native/mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/d6077a4284072b1f4a09bc5dd5932d21/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/macintoshhd/source/react-native/mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/d6077a4284072b1f4a09bc5dd5932d21/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

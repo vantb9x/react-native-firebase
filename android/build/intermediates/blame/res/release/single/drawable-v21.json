@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/macintoshhd/source/react-native/mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/d6077a4284072b1f4a09bc5dd5932d21/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/macintoshhd/source/react-native/mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/d6077a4284072b1f4a09bc5dd5932d21/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/macintoshhd/source/react-native/mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/267b289ca8141ec76da15cbe895a5a2f/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/macintoshhd/source/react-native/mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/d6077a4284072b1f4a09bc5dd5932d21/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/macintoshhd/source/react-native/mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/d6077a4284072b1f4a09bc5dd5932d21/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/macintoshhd/source/react-native/mobile/node_modules/react-native-firebase/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/macintoshhd/.gradle/caches/transforms-2/files-2.1/d6077a4284072b1f4a09bc5dd5932d21/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
